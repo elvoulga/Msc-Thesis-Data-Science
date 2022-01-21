@@ -11,7 +11,7 @@ Most often the assigned tags are broad concepts, which describe the general noti
 This thesis belongs in the aforementioned field of biomedical semantic indexing,and specifically the annotation of biomedical text data with fine-grained scientific concepts. We are specifically interested in scientific literature annotation, thus indexing of biomedical research publications. Publication indexing is a significant part of knowledge extraction: researchers publish their work and results, which can be studied by others, to gain knowledge of work on a specific field. Fine-grainedindexing will provide more specialised search results, saving researchers’ time and effort.
 
 ### 2. Purpose and Research Questions
-The goal of this thesis is to attempt to exploit the semantic information provided by all articles that cite or are cited by a piece of biomedical literature to accomplish its fine-grained semantic indexing with the relevant narrower concepts of a MeSH descriptor. To this end, the preliminary work on fine-grained semantic indexing, based on weak supervision [1] is further extended, to make use of such information
+The goal of this thesis is to attempt to exploit the semantic information provided by all articles that cite or are cited by a piece of biomedical literature to accomplish its fine-grained semantic indexing with the relevant narrower concepts of a MeSH descriptor. To this end, ## the preliminary work on fine-grained semantic indexing, based on weak supervision [1] is further extended ##, to make use of such information
 and the system is being tested on the case of Alzheimer’s Disease.
 
 The research questions, this thesis attempts to address, are the following:
